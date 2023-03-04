@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @omwitsa-etole
-- 👀 I’m a fullstack developer interested in web development and design and software development.
-- 📫 You can reach me through email at omwitsabradone@gmail.com
+- 📫 You can reach me via email at omwitsabradone@gmail.com or visit my portfolio available at spot-blog.herokuapp.com/omwitsa-etole
 
 <!---
 omwitsa-etole/omwitsa-etole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
